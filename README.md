@@ -1,0 +1,1 @@
+# howto-host-palworld-dedicated-server-linux
